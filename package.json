@@ -1,0 +1,10 @@
+{
+	"name": "RWM-nodejs-express",
+	"version": "0.0.1",
+	"description": "A simple express app",
+	"dependencies": {
+		"express": "4.*",
+		"body-parser": "latest",
+		"watson-develooer-cloud": "2.25.1"
+	}
+}
